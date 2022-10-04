@@ -1,6 +1,4 @@
-# 레포지토리 명
-
-### autoscoring
+# 수강생 과제 채점 후 업데이트 자동화 프로젝트
 
 <br>
 
@@ -80,6 +78,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=Google%20Sheets&logoColor=white"/>
 </section>
+<img width="945" alt="스크린샷 2022-10-04 오후 3 48 35" src="https://user-images.githubusercontent.com/48047773/193753115-636ec17b-6941-4dfa-b737-cd252e3c19b3.png">
 
 
 ### Tools
